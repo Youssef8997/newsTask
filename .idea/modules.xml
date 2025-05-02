@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/project/newsy_test/newsy_test.iml" filepath="D:/project/newsy_test/newsy_test.iml" />
+      <module fileurl="file://D:/project/newsy_test/android/newsy_test_android.iml" filepath="D:/project/newsy_test/android/newsy_test_android.iml" />
+    </modules>
+  </component>
+</project>
